@@ -129,7 +129,7 @@ body {
 .rodapePrincipal-navMap-list {
 	display: flex;
 	flex-flow: column wrap;
-	height: 250px;
+	height: 260px;
 }
 
 .rodapePrincipal-navMap-link {
